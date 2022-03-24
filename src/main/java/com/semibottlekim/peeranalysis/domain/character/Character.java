@@ -1,8 +1,8 @@
 package com.semibottlekim.peeranalysis.domain.character;
 
-import com.semibottlekim.mycompanion.domain.expedition.Card;
-import com.semibottlekim.mycompanion.domain.expedition.Expedition;
-import com.semibottlekim.mycompanion.domain.expedition.ExpeditionCollection;
+import com.semibottlekim.peeranalysis.domain.expedition.Card;
+import com.semibottlekim.peeranalysis.domain.expedition.Expedition;
+import com.semibottlekim.peeranalysis.domain.expedition.ExpeditionCollection;
 
 import java.util.List;
 
